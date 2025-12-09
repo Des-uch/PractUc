@@ -1,0 +1,14 @@
+F:\Ucheba\МАПО\!ВОТЕТА\3rdVariantMAPO\3rdVariantMAPO\bin\Release\3rdVariantMAPO.exe.config
+F:\Ucheba\МАПО\!ВОТЕТА\3rdVariantMAPO\3rdVariantMAPO\bin\Release\ExBD.mdb
+F:\Ucheba\МАПО\!ВОТЕТА\3rdVariantMAPO\3rdVariantMAPO\bin\Release\3rdVariantMAPO.exe
+F:\Ucheba\МАПО\!ВОТЕТА\3rdVariantMAPO\3rdVariantMAPO\bin\Release\3rdVariantMAPO.pdb
+F:\Ucheba\МАПО\!ВОТЕТА\3rdVariantMAPO\3rdVariantMAPO\obj\Release\_3rdVariantMAPO.Form1.resources
+F:\Ucheba\МАПО\!ВОТЕТА\3rdVariantMAPO\3rdVariantMAPO\obj\Release\_3rdVariantMAPO.initialform.resources
+F:\Ucheba\МАПО\!ВОТЕТА\3rdVariantMAPO\3rdVariantMAPO\obj\Release\_3rdVariantMAPO.Properties.Resources.resources
+F:\Ucheba\МАПО\!ВОТЕТА\3rdVariantMAPO\3rdVariantMAPO\obj\Release\_3rdVariantMAPO.Table.resources
+F:\Ucheba\МАПО\!ВОТЕТА\3rdVariantMAPO\3rdVariantMAPO\obj\Release\3rdVariantMAPO.csproj.GenerateResource.Cache
+F:\Ucheba\МАПО\!ВОТЕТА\3rdVariantMAPO\3rdVariantMAPO\obj\Release\3rdVariantMAPO.exe
+F:\Ucheba\МАПО\!ВОТЕТА\3rdVariantMAPO\3rdVariantMAPO\obj\Release\3rdVariantMAPO.pdb
+E:\Ucheba\МАПО\!ВОТЕТА\3rdVariantMAPO\3rdVariantMAPO\bin\Release\3rdVariantMAPO.exe.config
+E:\Ucheba\МАПО\!ВОТЕТА\3rdVariantMAPO\3rdVariantMAPO\obj\Release\3rdVariantMAPO.exe
+E:\Ucheba\МАПО\!ВОТЕТА\3rdVariantMAPO\3rdVariantMAPO\obj\Release\3rdVariantMAPO.pdb

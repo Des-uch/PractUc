@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "W:\\Ucheba\\\u041C\u0410\u041F\u041E\\!\u0412\u041E\u0422\u0415\u0422\u0410\\3rdVariantMAPO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC357903-2E9F-41F6-A1AD-6E3C0BE88E7B}|3rdVariantMAPO\\3rdVariantMAPO.csproj|W:\\Ucheba\\\u041C\u0410\u041F\u041E\\!\u0412\u041E\u0422\u0415\u0422\u0410\\3rdVariantMAPO\\3rdvariantmapo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC357903-2E9F-41F6-A1AD-6E3C0BE88E7B}|3rdVariantMAPO\\3rdVariantMAPO.csproj|solutionrelative:3rdvariantmapo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC357903-2E9F-41F6-A1AD-6E3C0BE88E7B}|3rdVariantMAPO\\3rdVariantMAPO.csproj|W:\\Ucheba\\\u041C\u0410\u041F\u041E\\!\u0412\u041E\u0422\u0415\u0422\u0410\\3rdVariantMAPO\\3rdvariantmapo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC357903-2E9F-41F6-A1AD-6E3C0BE88E7B}|3rdVariantMAPO\\3rdVariantMAPO.csproj|solutionrelative:3rdvariantmapo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC357903-2E9F-41F6-A1AD-6E3C0BE88E7B}|3rdVariantMAPO\\3rdVariantMAPO.csproj|w:\\ucheba\\\u043C\u0430\u043F\u043E\\!\u0432\u043E\u0442\u0435\u0442\u0430\\3rdvariantmapo\\3rdvariantmapo\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC357903-2E9F-41F6-A1AD-6E3C0BE88E7B}|3rdVariantMAPO\\3rdVariantMAPO.csproj|solutionrelative:3rdvariantmapo\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC357903-2E9F-41F6-A1AD-6E3C0BE88E7B}|3rdVariantMAPO\\3rdVariantMAPO.csproj|W:\\Ucheba\\\u041C\u0410\u041F\u041E\\!\u0412\u041E\u0422\u0415\u0422\u0410\\3rdVariantMAPO\\3rdvariantmapo\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC357903-2E9F-41F6-A1AD-6E3C0BE88E7B}|3rdVariantMAPO\\3rdVariantMAPO.csproj|solutionrelative:3rdvariantmapo\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC357903-2E9F-41F6-A1AD-6E3C0BE88E7B}|3rdVariantMAPO\\3rdVariantMAPO.csproj|W:\\Ucheba\\\u041C\u0410\u041F\u041E\\!\u0412\u041E\u0422\u0415\u0422\u0410\\3rdVariantMAPO\\3rdvariantmapo\\initialform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC357903-2E9F-41F6-A1AD-6E3C0BE88E7B}|3rdVariantMAPO\\3rdVariantMAPO.csproj|solutionrelative:3rdvariantmapo\\initialform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Table.cs",
+              "DocumentMoniker": "W:\\Ucheba\\\u041C\u0410\u041F\u041E\\!\u0412\u041E\u0422\u0415\u0422\u0410\\3rdVariantMAPO\\3rdVariantMAPO\\Table.cs",
+              "RelativeDocumentMoniker": "3rdVariantMAPO\\Table.cs",
+              "ToolTip": "W:\\Ucheba\\\u041C\u0410\u041F\u041E\\!\u0412\u041E\u0422\u0415\u0422\u0410\\3rdVariantMAPO\\3rdVariantMAPO\\Table.cs",
+              "RelativeToolTip": "3rdVariantMAPO\\Table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T11:59:01.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "W:\\Ucheba\\\u041C\u0410\u041F\u041E\\!\u0412\u041E\u0422\u0415\u0422\u0410\\3rdVariantMAPO\\3rdVariantMAPO\\Form1.cs",
+              "RelativeDocumentMoniker": "3rdVariantMAPO\\Form1.cs",
+              "ToolTip": "W:\\Ucheba\\\u041C\u0410\u041F\u041E\\!\u0412\u041E\u0422\u0415\u0422\u0410\\3rdVariantMAPO\\3rdVariantMAPO\\Form1.cs*",
+              "RelativeToolTip": "3rdVariantMAPO\\Form1.cs*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowCUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:47:28.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "initialform.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "W:\\Ucheba\\\u041C\u0410\u041F\u041E\\!\u0412\u041E\u0422\u0415\u0422\u0410\\3rdVariantMAPO\\3rdVariantMAPO\\initialform.cs",
+              "RelativeDocumentMoniker": "3rdVariantMAPO\\initialform.cs",
+              "ToolTip": "W:\\Ucheba\\\u041C\u0410\u041F\u041E\\!\u0412\u041E\u0422\u0415\u0422\u0410\\3rdVariantMAPO\\3rdVariantMAPO\\initialform.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "3rdVariantMAPO\\initialform.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:44:29.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "W:\\Ucheba\\\u041C\u0410\u041F\u041E\\!\u0412\u041E\u0422\u0415\u0422\u0410\\3rdVariantMAPO\\3rdVariantMAPO\\Form1.cs",
+              "RelativeDocumentMoniker": "3rdVariantMAPO\\Form1.cs",
+              "ToolTip": "W:\\Ucheba\\\u041C\u0410\u041F\u041E\\!\u0412\u041E\u0422\u0415\u0422\u0410\\3rdVariantMAPO\\3rdVariantMAPO\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "RelativeToolTip": "3rdVariantMAPO\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:44:29.151Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Table.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "W:\\Ucheba\\\u041C\u0410\u041F\u041E\\!\u0412\u041E\u0422\u0415\u0422\u0410\\3rdVariantMAPO\\3rdVariantMAPO\\Table.cs",
+              "RelativeDocumentMoniker": "3rdVariantMAPO\\Table.cs",
+              "ToolTip": "W:\\Ucheba\\\u041C\u0410\u041F\u041E\\!\u0412\u041E\u0422\u0415\u0422\u0410\\3rdVariantMAPO\\3rdVariantMAPO\\Table.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "3rdVariantMAPO\\Table.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T08:24:37.836Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

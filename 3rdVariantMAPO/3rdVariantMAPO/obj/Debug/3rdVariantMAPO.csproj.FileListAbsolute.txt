@@ -1,0 +1,60 @@
+E:\Новая папка\МАПО\3rdVariantMAPO\3rdVariantMAPO\bin\Debug\3rdVariantMAPO.exe.config
+E:\Новая папка\МАПО\3rdVariantMAPO\3rdVariantMAPO\obj\Debug\3rdVariantMAPO.csprojResolveAssemblyReference.cache
+E:\Новая папка\МАПО\3rdVariantMAPO\3rdVariantMAPO\obj\Debug\_3rdVariantMAPO.Form1.resources
+E:\Новая папка\МАПО\3rdVariantMAPO\3rdVariantMAPO\obj\Debug\_3rdVariantMAPO.Properties.Resources.resources
+E:\Новая папка\МАПО\3rdVariantMAPO\3rdVariantMAPO\obj\Debug\3rdVariantMAPO.csproj.GenerateResource.Cache
+E:\Новая папка\МАПО\3rdVariantMAPO\3rdVariantMAPO\bin\Debug\3rdVariantMAPO.exe
+E:\Новая папка\МАПО\3rdVariantMAPO\3rdVariantMAPO\bin\Debug\3rdVariantMAPO.pdb
+E:\Новая папка\МАПО\3rdVariantMAPO\3rdVariantMAPO\obj\Debug\3rdVariantMAPO.exe
+E:\Новая папка\МАПО\3rdVariantMAPO\3rdVariantMAPO\obj\Debug\3rdVariantMAPO.pdb
+E:\Новая папка\МАПО\3rdVariantMAPO\3rdVariantMAPO\obj\Debug\_3rdVariantMAPO.Table.resources
+E:\Новая папка\МАПО\3rdVariantMAPO\3rdVariantMAPO\bin\Debug\ExBD.mdb
+Z:\ИСПб-034\Моделирование и анализ ПО\Степичев\3rdVariantMAPO\3rdVariantMAPO\bin\Debug\3rdVariantMAPO.exe.config
+Z:\ИСПб-034\Моделирование и анализ ПО\Степичев\3rdVariantMAPO\3rdVariantMAPO\obj\Debug\3rdVariantMAPO.exe
+Z:\ИСПб-034\Моделирование и анализ ПО\Степичев\3rdVariantMAPO\3rdVariantMAPO\obj\Debug\3rdVariantMAPO.pdb
+Z:\ИСПб-034\Моделирование и анализ ПО\Степичев\3rdVariantMAPO\3rdVariantMAPO\bin\Debug\ExBD.mdb
+Z:\ИСПб-034\Моделирование и анализ ПО\Степичев\3rdVariantMAPO\3rdVariantMAPO\bin\Debug\3rdVariantMAPO.exe
+Z:\ИСПб-034\Моделирование и анализ ПО\Степичев\3rdVariantMAPO\3rdVariantMAPO\bin\Debug\3rdVariantMAPO.pdb
+Z:\ИСПб-034\Моделирование и анализ ПО\Степичев\3rdVariantMAPO\3rdVariantMAPO\obj\Debug\3rdVariantMAPO.csprojResolveAssemblyReference.cache
+Z:\ИСПб-034\Моделирование и анализ ПО\Степичев\3rdVariantMAPO\3rdVariantMAPO\obj\Debug\_3rdVariantMAPO.Form1.resources
+Z:\ИСПб-034\Моделирование и анализ ПО\Степичев\3rdVariantMAPO\3rdVariantMAPO\obj\Debug\_3rdVariantMAPO.Properties.Resources.resources
+Z:\ИСПб-034\Моделирование и анализ ПО\Степичев\3rdVariantMAPO\3rdVariantMAPO\obj\Debug\_3rdVariantMAPO.Table.resources
+Z:\ИСПб-034\Моделирование и анализ ПО\Степичев\3rdVariantMAPO\3rdVariantMAPO\obj\Debug\3rdVariantMAPO.csproj.GenerateResource.Cache
+Z:\ИСПб-034\Моделирование и анализ ПО\Степичев\3rdVariantMAPO\3rdVariantMAPO\obj\Debug\_3rdVariantMAPO.initialform.resources
+W:\Ucheba\МАПО\!ВОТЕТА\3rdVariantMAPO\3rdVariantMAPO\obj\Debug\3rdVariantMAPO.csproj.AssemblyReference.cache
+W:\Ucheba\МАПО\!ВОТЕТА\3rdVariantMAPO\3rdVariantMAPO\obj\Debug\3rdVariantMAPO.exe
+W:\Ucheba\МАПО\!ВОТЕТА\3rdVariantMAPO\3rdVariantMAPO\obj\Debug\3rdVariantMAPO.pdb
+W:\Ucheba\МАПО\!ВОТЕТА\3rdVariantMAPO\3rdVariantMAPO\obj\Debug\_3rdVariantMAPO.Form1.resources
+W:\Ucheba\МАПО\!ВОТЕТА\3rdVariantMAPO\3rdVariantMAPO\obj\Debug\_3rdVariantMAPO.initialform.resources
+W:\Ucheba\МАПО\!ВОТЕТА\3rdVariantMAPO\3rdVariantMAPO\obj\Debug\_3rdVariantMAPO.Properties.Resources.resources
+W:\Ucheba\МАПО\!ВОТЕТА\3rdVariantMAPO\3rdVariantMAPO\obj\Debug\_3rdVariantMAPO.Table.resources
+W:\Ucheba\МАПО\!ВОТЕТА\3rdVariantMAPO\3rdVariantMAPO\obj\Debug\3rdVariantMAPO.csproj.GenerateResource.cache
+W:\Ucheba\МАПО\!ВОТЕТА\3rdVariantMAPO\3rdVariantMAPO\obj\Debug\3rdVariantMAPO.csproj.CoreCompileInputs.cache
+W:\Ucheba\МАПО\!ВОТЕТА\3rdVariantMAPO\3rdVariantMAPO\bin\Debug\ExBD.mdb
+W:\Ucheba\МАПО\!ВОТЕТА\3rdVariantMAPO\3rdVariantMAPO\bin\Debug\3rdVariantMAPO.exe.config
+W:\Ucheba\МАПО\!ВОТЕТА\3rdVariantMAPO\3rdVariantMAPO\bin\Debug\3rdVariantMAPO.exe
+W:\Ucheba\МАПО\!ВОТЕТА\3rdVariantMAPO\3rdVariantMAPO\bin\Debug\3rdVariantMAPO.pdb
+E:\Ucheba\МАПО\!ВОТЕТА\3rdVariantMAPO\3rdVariantMAPO\bin\Debug\3rdVariantMAPO.exe.config
+E:\Ucheba\МАПО\!ВОТЕТА\3rdVariantMAPO\3rdVariantMAPO\obj\Debug\3rdVariantMAPO.exe
+E:\Ucheba\МАПО\!ВОТЕТА\3rdVariantMAPO\3rdVariantMAPO\obj\Debug\3rdVariantMAPO.pdb
+E:\Ucheba\МАПО\!ВОТЕТА\3rdVariantMAPO\3rdVariantMAPO\bin\Debug\ExBD.mdb
+E:\Ucheba\МАПО\!ВОТЕТА\3rdVariantMAPO\3rdVariantMAPO\bin\Debug\3rdVariantMAPO.exe
+E:\Ucheba\МАПО\!ВОТЕТА\3rdVariantMAPO\3rdVariantMAPO\bin\Debug\3rdVariantMAPO.pdb
+E:\Ucheba\МАПО\!ВОТЕТА\3rdVariantMAPO\3rdVariantMAPO\obj\Debug\3rdVariantMAPO.csprojResolveAssemblyReference.cache
+E:\Ucheba\МАПО\!ВОТЕТА\3rdVariantMAPO\3rdVariantMAPO\obj\Debug\_3rdVariantMAPO.Form1.resources
+E:\Ucheba\МАПО\!ВОТЕТА\3rdVariantMAPO\3rdVariantMAPO\obj\Debug\_3rdVariantMAPO.initialform.resources
+E:\Ucheba\МАПО\!ВОТЕТА\3rdVariantMAPO\3rdVariantMAPO\obj\Debug\_3rdVariantMAPO.Properties.Resources.resources
+E:\Ucheba\МАПО\!ВОТЕТА\3rdVariantMAPO\3rdVariantMAPO\obj\Debug\_3rdVariantMAPO.Table.resources
+E:\Ucheba\МАПО\!ВОТЕТА\3rdVariantMAPO\3rdVariantMAPO\obj\Debug\3rdVariantMAPO.csproj.GenerateResource.Cache
+F:\Ucheba\МАПО\!ВОТЕТА\3rdVariantMAPO\3rdVariantMAPO\bin\Debug\3rdVariantMAPO.exe.config
+F:\Ucheba\МАПО\!ВОТЕТА\3rdVariantMAPO\3rdVariantMAPO\obj\Debug\3rdVariantMAPO.exe
+F:\Ucheba\МАПО\!ВОТЕТА\3rdVariantMAPO\3rdVariantMAPO\obj\Debug\3rdVariantMAPO.pdb
+F:\Ucheba\МАПО\!ВОТЕТА\3rdVariantMAPO\3rdVariantMAPO\bin\Debug\ExBD.mdb
+F:\Ucheba\МАПО\!ВОТЕТА\3rdVariantMAPO\3rdVariantMAPO\bin\Debug\3rdVariantMAPO.exe
+F:\Ucheba\МАПО\!ВОТЕТА\3rdVariantMAPO\3rdVariantMAPO\bin\Debug\3rdVariantMAPO.pdb
+F:\Ucheba\МАПО\!ВОТЕТА\3rdVariantMAPO\3rdVariantMAPO\obj\Debug\3rdVariantMAPO.csprojResolveAssemblyReference.cache
+F:\Ucheba\МАПО\!ВОТЕТА\3rdVariantMAPO\3rdVariantMAPO\obj\Debug\_3rdVariantMAPO.Form1.resources
+F:\Ucheba\МАПО\!ВОТЕТА\3rdVariantMAPO\3rdVariantMAPO\obj\Debug\_3rdVariantMAPO.initialform.resources
+F:\Ucheba\МАПО\!ВОТЕТА\3rdVariantMAPO\3rdVariantMAPO\obj\Debug\_3rdVariantMAPO.Properties.Resources.resources
+F:\Ucheba\МАПО\!ВОТЕТА\3rdVariantMAPO\3rdVariantMAPO\obj\Debug\_3rdVariantMAPO.Table.resources
+F:\Ucheba\МАПО\!ВОТЕТА\3rdVariantMAPO\3rdVariantMAPO\obj\Debug\3rdVariantMAPO.csproj.GenerateResource.Cache
