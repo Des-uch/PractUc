@@ -39,8 +39,7 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(100, 20);
             this.textBox1.TabIndex = 0;
-            this.textBox1.Enter += new System.EventHandler(this.textBox1_Enter);
-            this.textBox1.Leave += new System.EventHandler(this.textBox1_Leave);
+            this.textBox1.Text = "login";
             // 
             // textBox2
             // 
@@ -48,8 +47,7 @@
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(100, 20);
             this.textBox2.TabIndex = 1;
-            this.textBox2.Enter += new System.EventHandler(this.textBox2_Enter);
-            this.textBox2.Leave += new System.EventHandler(this.textBox2_Leave);
+            this.textBox2.Text = "Password";
             // 
             // loginButton
             // 
@@ -57,7 +55,7 @@
             this.loginButton.Name = "loginButton";
             this.loginButton.Size = new System.Drawing.Size(100, 23);
             this.loginButton.TabIndex = 2;
-            this.loginButton.Text = "Войти";
+            this.loginButton.Text = "login";
             this.loginButton.UseVisualStyleBackColor = true;
             this.loginButton.Click += new System.EventHandler(this.loginButton_Click);
             // 
@@ -65,14 +63,12 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.ClientSize = new System.Drawing.Size(123, 96);
-            this.Controls.Add(this.textBox1);
             this.Controls.Add(this.loginButton);
             this.Controls.Add(this.textBox2);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
+            this.Controls.Add(this.textBox1);
             this.Name = "Form1";
-            this.Load += new System.EventHandler(this.Form1_Load);
+            this.Text = "Form1";
             this.ResumeLayout(false);
             this.PerformLayout();
 

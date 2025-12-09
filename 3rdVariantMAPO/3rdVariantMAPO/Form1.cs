@@ -1,5 +1,11 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
 using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace _3rdVariantMAPO
@@ -33,43 +39,6 @@ namespace _3rdVariantMAPO
             {
                 MessageBox.Show("Неправильный ввод");
             }
-        }
-
-        private void textBox1_Enter(object sender, EventArgs e)
-        {
-            if (textBox1.Text == "Введите логин...")
-                textBox1.Text = "";
-            textBox1.ForeColor = Color.Black;
-        }
-        private void textBox1_Leave(object sender, EventArgs e)
-        {
-            if (string.IsNullOrWhiteSpace(textBox1.Text))
-            {
-                textBox1.Text = "Введите логин...";
-                textBox1.ForeColor = Color.Gray;
-            }
-        }
-        private void textBox2_Enter(object sender, EventArgs e)
-        {
-            if (textBox2.Text == "Введите пароль...")
-                textBox2.Text = "";
-            textBox2.ForeColor = Color.Black;
-        }
-        private void textBox2_Leave(object sender, EventArgs e)
-        {
-            if (string.IsNullOrWhiteSpace(textBox2.Text))
-            {
-                textBox2.Text = "Введите пароль...";
-                textBox2.ForeColor = Color.Gray;
-            }
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-            textBox2.Text = "Введите пароль...";
-            textBox2.ForeColor = Color.Gray;
-            textBox1.Text = "Введите логин...";
-            textBox1.ForeColor = Color.Gray;
         }
     }
 }
