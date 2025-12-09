@@ -1,4 +1,7 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace _3rdVariantMAPO
@@ -13,7 +16,7 @@ namespace _3rdVariantMAPO
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new initialform());
+            Application.Run(new Form1());
         }
     }
 }
